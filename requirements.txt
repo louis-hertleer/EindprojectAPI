@@ -4,4 +4,5 @@ uvicorn>=0.15.0,<0.16.0
 sqlalchemy~=1.4.42
 passlib~=1.7.4
 requests~=2.31.0
-python-jose[cryptography] == 3.3.0
+'python-jose[cryptography]' == 3.3.0
+python-multipart == 0.0.6

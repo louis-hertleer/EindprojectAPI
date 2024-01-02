@@ -24,6 +24,7 @@ Om te authenticeren kan een token opgevraagd worden(POST):
 ![Get Token POST](https://github.com/louis-hertleer/EindprojectAPI/assets/114073936/4e1f4180-5f3d-4eb1-8aaa-67cc4693bb4b)
 
 Om GET requests te maken moet de user ingelogd zijn.
+
 Alle workers kunnen kunnen samen met hun tractors en locations opgevraagd worden(GET):
 ![Get Workers](https://github.com/louis-hertleer/EindprojectAPI/assets/114073936/40278be8-d63e-42b9-9200-70f7b7252d51)
 

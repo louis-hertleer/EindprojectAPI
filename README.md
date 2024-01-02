@@ -51,7 +51,6 @@ Hier is de volledige OpenAPI docs pagina:
 Hier is een bewijs dat OpenAPI docs pagina ook werkt:
 ![OpenAPI Proof](https://github.com/louis-hertleer/EindprojectAPI/assets/114073936/4a9b55f4-6f8d-4c7b-a50f-58af6b76da23)
 
-
 Alle test werken via pytest:
 ![Test](https://github.com/louis-hertleer/EindprojectAPI/assets/114073936/12e5c52e-de9b-408f-9781-932720fb4f81)
 
@@ -60,6 +59,8 @@ Als laatste een bewijs dat de API volledig werkt via Okteto cloud:
 
 De API is hier gehost: https://system-service-louis-hertleer.cloud.okteto.net
 
-De username/email is Example@gmail.com en het password admin(Token voor postman:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFeGFtcGxlQGdtYWlsLmNvbSIsImV4cCI6MTcwMzc5Mzc0OH0.mQzAilWEWPwX5pCfXS5_hXsJmUTnd8g0q3Ye_Sxyu1I)
+username/email: Example@gmail.com
+password: admin
+Token voor postman: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFeGFtcGxlQGdtYWlsLmNvbSIsImV4cCI6MTcwMzc5Mzc0OH0.mQzAilWEWPwX5pCfXS5_hXsJmUTnd8g0q3Ye_Sxyu1I
 
 
